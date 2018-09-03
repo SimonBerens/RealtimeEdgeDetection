@@ -1,1 +1,2 @@
 # RealtimeEdgeDetection
+Kernel image processing
